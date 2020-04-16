@@ -16,4 +16,9 @@ Theresa Nguyen: nguyenn@college.harvard.edu
 Carina Peng: carina.peng@harvardanalytics.org
 
 # World Health Organization Collaborators
-Ana Riviere-Cinnamond
+Dra. Ana Riviere-Cinnamond
+
+Dr. Manuel Jose Sanchez Vazquez
+
+Dr. Enrique Perez
+
